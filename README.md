@@ -18,6 +18,6 @@ Click handling on the cards is implemented, allowing them to expand and collapse
 The updateTranslation() function updates translations based on the selected language.
 External Resources Used:
 The page utilizes icons from the Font Awesome library.
-Images from the Unsplash service are used as card images.
-Summary:
+Images from the Unsplash service are used as card images.</br>
+Summary:</br>
 The "Expanding Cards" program is a simple example of an interactive web application that utilizes HTML, CSS, and JavaScript to create dynamic user interfaces. With translations and responsive design implementation, the application is user-friendly and adapts to different devices and user languages.
