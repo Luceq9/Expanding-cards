@@ -5,12 +5,12 @@ HTML Structure:</br>
 The HTML file contains the document structure, where elements such as header, content, and footer are defined.
 The header contains a logo and flags in two language versions (Polish and English).
 The main content is represented by a container that contains an area for cards.
-The footer contains contact information and links to the website.
-CSS Stylesheet:
+The footer contains contact information and links to the website.</br>
+CSS Stylesheet:</br>
 The stylesheet defines the appearance and layout of elements on the webpage.
 Styles are defined for the header, card container, and footer.
-Media queries are used to make the page responsive and look good on different devices.
-JavaScript Script:
+Media queries are used to make the page responsive and look good on different devices.</br>
+JavaScript Script:</br>
 The JavaScript script is responsible for generating cards on the webpage and handling user interactions.
 Objects containing data about individual cards (title and image) are defined.
 The generatePanels() function generates cards based on the data and adds them to the container.
