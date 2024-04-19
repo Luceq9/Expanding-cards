@@ -1,7 +1,7 @@
 Program Description:
 "Expanding Cards" is a simple web application created using HTML, CSS, and JavaScript technologies. This program allows interactive browsing of various categories through cards that can be expanded and collapsed. Each card contains an image and a title corresponding to the respective category.
 
-HTML Structure:
+HTML Structure:</br>
 The HTML file contains the document structure, where elements such as header, content, and footer are defined.
 The header contains a logo and flags in two language versions (Polish and English).
 The main content is represented by a container that contains an area for cards.
